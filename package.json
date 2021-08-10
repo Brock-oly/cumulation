@@ -38,7 +38,7 @@
     "cookie": "^0.3.1",
     "matilde": "^1.0.0",
     "moment": "^2.22.2",
-    "simple-get": "^4.0.0",
+    "simple-get": "https://github.com/Brock-oly/simple-get.git#master",
     "underscore": "^1.9.1"
   }
 }
